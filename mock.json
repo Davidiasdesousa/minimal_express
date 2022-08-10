@@ -1,0 +1,1060 @@
+{
+    "id": 67,
+    "idOrigem": null,
+    "tipoProva": 1,
+    "nome": "prof em",
+    "email": "yuri.slimaaa+ai1@gmail.com",
+    "cpf": "",
+    "celular": "",
+    "credito": 0,
+    "foto": "",
+    "dataCriacao": "2022-01-03T12:51:32.466Z",
+    "dataAtualizacao": "2022-08-01T14:18:00.779Z",
+    "emailp4ed": "prof.em@p4ed.com",
+    "sexo": null,
+    "responsavelId": null,
+    "responsavelSecundarioId": null,
+    "primeiroAcesso": false,
+    "status": true,
+    "transctionsCode": "f26424b4-c54e-1b8b-83d2-aa2ef264607f",
+    "usuarioPerfilPoliedro": [],
+    "responsaveis": [],
+    "dependentes": [],
+    "TipoUsuario": [
+        "Professor"
+    ],
+    "escolas": [
+        {
+            "id": 68,
+            "ativo": "1",
+            "dataAceite": null,
+            "edrosId": null,
+            "matricula": "",
+            "inscricao": "0000000",
+            "acessibilidade": null,
+            "turma": null,
+            "perfil": [
+                {
+                    "id": 1,
+                    "nome": "Professor"
+                }
+            ],
+            "escola": {
+                "id": 2003,
+                "idRedeEscolar": null,
+                "unidadeEscolar": "",
+                "telefone": "",
+                "logo": "",
+                "email": null,
+                "nomeConta": "Inovacao",
+                "descricao": "",
+                "cidade": "",
+                "ativo": 1,
+                "consultorComercial": "",
+                "emailconsultorComercial": "",
+                "idMatriz": null,
+                "idPedidoColecao": null,
+                "perfil": [
+                    {
+                        "id": 1,
+                        "nome": "Professor"
+                    }
+                ]
+            },
+            "curso": [
+                {
+                    "curso": {
+                        "segmento": {
+                            "id": 1,
+                            "nome": "EM"
+                        },
+                        "serie": {
+                            "id": 18,
+                            "nome": "3ª Série"
+                        },
+                        "sapId": "I0011939",
+                        "nome": "PV|3ª Série e PV - Octa +|Aluno|CE - Octa Mais ENEM - Kit Espec (Sem Arte+Enem+Ques) j8d",
+                        "turma": {
+                            "id": 13340,
+                            "nome": "EM3 Serie"
+                        },
+                        "livros": [
+                            {
+                                "sapId": "I0011544",
+                                "nome": "PV Octa Mais Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0011543",
+                                "nome": "PV Octa Mais Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0011542",
+                                "nome": "PV Octa Mais Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0011541",
+                                "nome": "PV Octa Mais Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0011540",
+                                "nome": "PV Octa Mais Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0011539",
+                                "nome": "PV Octa Mais Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010993",
+                                "nome": "PV Coletânea Enem Prova 2021 Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0010992",
+                                "nome": "PV Coletânea Enem 2017 - 2020 Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0010982",
+                                "nome": "PV Produção de Texto Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0010980",
+                                "nome": "PV Filosofia Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0010979",
+                                "nome": "PV Sociologia Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0010977",
+                                "nome": "PV L. Inglesa Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010976",
+                                "nome": "PV L. Inglesa Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0003690",
+                                "nome": "PV Questões Contemporâneas Livro U"
+                            }
+                        ],
+                        "livrosExtras": []
+                    }
+                },
+                {
+                    "curso": {
+                        "segmento": {
+                            "id": 1,
+                            "nome": "EM"
+                        },
+                        "serie": {
+                            "id": 14,
+                            "nome": "1ª Série"
+                        },
+                        "sapId": "I0011049",
+                        "nome": "EM|1ª série - Lumen|Aluno|CP - 1ª série j8d",
+                        "turma": {
+                            "id": 13340,
+                            "nome": "EM1 Serie"
+                        },
+                        "livros": [
+                            {
+                                "sapId": "I0010791",
+                                "nome": "EM Lumen L. Portuguesa Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010797",
+                                "nome": "EM Lumen Produção de Texto Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010803",
+                                "nome": "EM Lumen L. Inglesa Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010809",
+                                "nome": "EM Lumen Arte Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010815",
+                                "nome": "EM Lumen Matemática Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010821",
+                                "nome": "EM Lumen Biologia Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010827",
+                                "nome": "EM Lumen Física Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010833",
+                                "nome": "EM Lumen Química Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010839",
+                                "nome": "EM Lumen História Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010845",
+                                "nome": "EM Lumen Geografia Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010851",
+                                "nome": "EM Lumen Filosofia Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010857",
+                                "nome": "EM Lumen Sociologia Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010792",
+                                "nome": "EM Lumen L. Portuguesa Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010798",
+                                "nome": "EM Lumen Produção de Texto Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010804",
+                                "nome": "EM Lumen L. Inglesa Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010810",
+                                "nome": "EM Lumen Arte Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010816",
+                                "nome": "EM Lumen Matemática Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010822",
+                                "nome": "EM Lumen Biologia Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010828",
+                                "nome": "EM Lumen Física Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010834",
+                                "nome": "EM Lumen Química Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010840",
+                                "nome": "EM Lumen História Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010846",
+                                "nome": "EM Lumen Geografia Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010852",
+                                "nome": "EM Lumen Filosofia Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010858",
+                                "nome": "EM Lumen Sociologia Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010793",
+                                "nome": "EM Lumen L. Portuguesa Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010799",
+                                "nome": "EM Lumen Produção de Texto Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010805",
+                                "nome": "EM Lumen L. Inglesa Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010811",
+                                "nome": "EM Lumen Arte Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010817",
+                                "nome": "EM Lumen Matemática Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010823",
+                                "nome": "EM Lumen Biologia Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010829",
+                                "nome": "EM Lumen Física Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010835",
+                                "nome": "EM Lumen Química Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010841",
+                                "nome": "EM Lumen História Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010847",
+                                "nome": "EM Lumen Geografia Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010853",
+                                "nome": "EM Lumen Filosofia Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010859",
+                                "nome": "EM Lumen Sociologia Livro 3 j8d"
+                            }
+                        ],
+                        "livrosExtras": []
+                    }
+                },
+                {
+                    "curso": {
+                        "segmento": {
+                            "id": 1,
+                            "nome": "EM"
+                        },
+                        "serie": {
+                            "id": 15,
+                            "nome": "2ª Série"
+                        },
+                        "sapId": "I0011050",
+                        "nome": "EM|2ª série - Lumen|Aluno|CP - 2ª série j8d",
+                        "turma": {
+                            "id": 13340,
+                            "nome": "EM2 Serie"
+                        },
+                        "livros": [
+                            {
+                                "sapId": "I0010794",
+                                "nome": "EM Lumen L. Portuguesa Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010800",
+                                "nome": "EM Lumen Produção de Texto Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010806",
+                                "nome": "EM Lumen L. Inglesa Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010812",
+                                "nome": "EM Lumen Arte Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010818",
+                                "nome": "EM Lumen Matemática Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010824",
+                                "nome": "EM Lumen Biologia Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010830",
+                                "nome": "EM Lumen Física Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010836",
+                                "nome": "EM Lumen Química Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010842",
+                                "nome": "EM Lumen História Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010848",
+                                "nome": "EM Lumen Geografia Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010854",
+                                "nome": "EM Lumen Filosofia Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010860",
+                                "nome": "EM Lumen Sociologia Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010795",
+                                "nome": "EM Lumen L. Portuguesa Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010801",
+                                "nome": "EM Lumen Produção de Texto Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010807",
+                                "nome": "EM Lumen L. Inglesa Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010813",
+                                "nome": "EM Lumen Arte Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010819",
+                                "nome": "EM Lumen Matemática Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010825",
+                                "nome": "EM Lumen Biologia Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010831",
+                                "nome": "EM Lumen Física Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010837",
+                                "nome": "EM Lumen Química Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010843",
+                                "nome": "EM Lumen História Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010849",
+                                "nome": "EM Lumen Geografia Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010855",
+                                "nome": "EM Lumen Filosofia Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010861",
+                                "nome": "EM Lumen Sociologia Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010796",
+                                "nome": "EM Lumen L. Portuguesa Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010802",
+                                "nome": "EM Lumen Produção de Texto Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010808",
+                                "nome": "EM Lumen L. Inglesa Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010814",
+                                "nome": "EM Lumen Arte Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010820",
+                                "nome": "EM Lumen Matemática Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010826",
+                                "nome": "EM Lumen Biologia Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010832",
+                                "nome": "EM Lumen Física Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010838",
+                                "nome": "EM Lumen Química Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010844",
+                                "nome": "EM Lumen História Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010850",
+                                "nome": "EM Lumen Geografia Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010856",
+                                "nome": "EM Lumen Filosofia Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010862",
+                                "nome": "EM Lumen Sociologia Livro 6 j8d"
+                            }
+                        ],
+                        "livrosExtras": []
+                    }
+                },
+                {
+                    "curso": {
+                        "segmento": {
+                            "id": 5,
+                            "nome": "PV"
+                        },
+                        "serie": {
+                            "id": 22,
+                            "nome": "PV "
+                        },
+                        "sapId": "I0011587",
+                        "nome": "PV|3ª Série e PV - ENEM|Aluno|CP - ENEM - DG j8d",
+                        "turma": {
+                            "id": 13340,
+                            "nome": "Turma PV"
+                        },
+                        "livros": [
+                            {
+                                "sapId": "I0010977",
+                                "nome": "PV L. Inglesa Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010978",
+                                "nome": "PV Arte Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0011014",
+                                "nome": "PV Enem Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0011013",
+                                "nome": "PV Enem Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0011012",
+                                "nome": "PV Enem Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010980",
+                                "nome": "PV Filosofia Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0010979",
+                                "nome": "PV Sociologia Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0010976",
+                                "nome": "PV L. Inglesa Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010982",
+                                "nome": "PV Produção de Texto Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0011011",
+                                "nome": "PV Enem Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0011016",
+                                "nome": "PV Enem Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0011015",
+                                "nome": "PV Enem Livro 5 j8d"
+                            }
+                        ],
+                        "livrosExtras": []
+                    }
+                }
+            ]
+        },  {
+            "id": 65,
+            "ativo": "1",
+            "dataAceite": null,
+            "edrosId": null,
+            "matricula": "",
+            "inscricao": "0000000",
+            "acessibilidade": null,
+            "turma": null,
+            "perfil": [
+                {
+                    "id": 1,
+                    "nome": "Professor"
+                }
+            ],
+            "escola": {
+                "id": 2003,
+                "idRedeEscolar": null,
+                "unidadeEscolar": "",
+                "telefone": "",
+                "logo": "",
+                "email": null,
+                "nomeConta": "Inovacao",
+                "descricao": "",
+                "cidade": "",
+                "ativo": 1,
+                "consultorComercial": "",
+                "emailconsultorComercial": "",
+                "idMatriz": null,
+                "idPedidoColecao": null,
+                "perfil": [
+                    {
+                        "id": 1,
+                        "nome": "Professor"
+                    }
+                ]
+            },
+            "curso": [
+                {
+                    "curso": {
+                        "segmento": {
+                            "id": 1,
+                            "nome": "EM"
+                        },
+                        "serie": {
+                            "id": 18,
+                            "nome": "3ª Série"
+                        },
+                        "sapId": "I0011939",
+                        "nome": "PV|3ª Série e PV - Octa +|Aluno|CE - Octa Mais ENEM - Kit Espec (Sem Arte+Enem+Ques) j8d",
+                        "turma": {
+                            "id": 13340,
+                            "nome": "EM3 Serie"
+                        },
+                        "livros": [
+                            {
+                                "sapId": "I0011544",
+                                "nome": "PV Octa Mais Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0011543",
+                                "nome": "PV Octa Mais Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0011542",
+                                "nome": "PV Octa Mais Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0011541",
+                                "nome": "PV Octa Mais Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0011540",
+                                "nome": "PV Octa Mais Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0011539",
+                                "nome": "PV Octa Mais Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010993",
+                                "nome": "PV Coletânea Enem Prova 2021 Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0010992",
+                                "nome": "PV Coletânea Enem 2017 - 2020 Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0010982",
+                                "nome": "PV Produção de Texto Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0010980",
+                                "nome": "PV Filosofia Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0010979",
+                                "nome": "PV Sociologia Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0010977",
+                                "nome": "PV L. Inglesa Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010976",
+                                "nome": "PV L. Inglesa Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0003690",
+                                "nome": "PV Questões Contemporâneas Livro U"
+                            }
+                        ],
+                        "livrosExtras": []
+                    }
+                },
+                {
+                    "curso": {
+                        "segmento": {
+                            "id": 1,
+                            "nome": "EM"
+                        },
+                        "serie": {
+                            "id": 14,
+                            "nome": "1ª Série"
+                        },
+                        "sapId": "I0011049",
+                        "nome": "EM|1ª série - Lumen|Aluno|CP - 1ª série j8d",
+                        "turma": {
+                            "id": 13338,
+                            "nome": "EM1 Serie"
+                        },
+                        "livros": [
+                            {
+                                "sapId": "I0010791",
+                                "nome": "EM Lumen L. Portuguesa Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010797",
+                                "nome": "EM Lumen Produção de Texto Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010803",
+                                "nome": "EM Lumen L. Inglesa Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010809",
+                                "nome": "EM Lumen Arte Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010815",
+                                "nome": "EM Lumen Matemática Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010821",
+                                "nome": "EM Lumen Biologia Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010827",
+                                "nome": "EM Lumen Física Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010833",
+                                "nome": "EM Lumen Química Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010839",
+                                "nome": "EM Lumen História Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010845",
+                                "nome": "EM Lumen Geografia Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010851",
+                                "nome": "EM Lumen Filosofia Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010857",
+                                "nome": "EM Lumen Sociologia Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010792",
+                                "nome": "EM Lumen L. Portuguesa Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010798",
+                                "nome": "EM Lumen Produção de Texto Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010804",
+                                "nome": "EM Lumen L. Inglesa Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010810",
+                                "nome": "EM Lumen Arte Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010816",
+                                "nome": "EM Lumen Matemática Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010822",
+                                "nome": "EM Lumen Biologia Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010828",
+                                "nome": "EM Lumen Física Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010834",
+                                "nome": "EM Lumen Química Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010840",
+                                "nome": "EM Lumen História Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010846",
+                                "nome": "EM Lumen Geografia Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010852",
+                                "nome": "EM Lumen Filosofia Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010858",
+                                "nome": "EM Lumen Sociologia Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010793",
+                                "nome": "EM Lumen L. Portuguesa Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010799",
+                                "nome": "EM Lumen Produção de Texto Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010805",
+                                "nome": "EM Lumen L. Inglesa Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010811",
+                                "nome": "EM Lumen Arte Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010817",
+                                "nome": "EM Lumen Matemática Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010823",
+                                "nome": "EM Lumen Biologia Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010829",
+                                "nome": "EM Lumen Física Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010835",
+                                "nome": "EM Lumen Química Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010841",
+                                "nome": "EM Lumen História Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010847",
+                                "nome": "EM Lumen Geografia Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010853",
+                                "nome": "EM Lumen Filosofia Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0010859",
+                                "nome": "EM Lumen Sociologia Livro 3 j8d"
+                            }
+                        ],
+                        "livrosExtras": []
+                    }
+                },
+                {
+                    "curso": {
+                        "segmento": {
+                            "id": 1,
+                            "nome": "EM"
+                        },
+                        "serie": {
+                            "id": 15,
+                            "nome": "2ª Série"
+                        },
+                        "sapId": "I0011050",
+                        "nome": "EM|2ª série - Lumen|Aluno|CP - 2ª série j8d",
+                        "turma": {
+                            "id": 13339,
+                            "nome": "EM2 Serie"
+                        },
+                        "livros": [
+                            {
+                                "sapId": "I0010794",
+                                "nome": "EM Lumen L. Portuguesa Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010800",
+                                "nome": "EM Lumen Produção de Texto Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010806",
+                                "nome": "EM Lumen L. Inglesa Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010812",
+                                "nome": "EM Lumen Arte Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010818",
+                                "nome": "EM Lumen Matemática Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010824",
+                                "nome": "EM Lumen Biologia Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010830",
+                                "nome": "EM Lumen Física Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010836",
+                                "nome": "EM Lumen Química Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010842",
+                                "nome": "EM Lumen História Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010848",
+                                "nome": "EM Lumen Geografia Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010854",
+                                "nome": "EM Lumen Filosofia Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010860",
+                                "nome": "EM Lumen Sociologia Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0010795",
+                                "nome": "EM Lumen L. Portuguesa Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010801",
+                                "nome": "EM Lumen Produção de Texto Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010807",
+                                "nome": "EM Lumen L. Inglesa Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010813",
+                                "nome": "EM Lumen Arte Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010819",
+                                "nome": "EM Lumen Matemática Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010825",
+                                "nome": "EM Lumen Biologia Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010831",
+                                "nome": "EM Lumen Física Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010837",
+                                "nome": "EM Lumen Química Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010843",
+                                "nome": "EM Lumen História Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010849",
+                                "nome": "EM Lumen Geografia Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010855",
+                                "nome": "EM Lumen Filosofia Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010861",
+                                "nome": "EM Lumen Sociologia Livro 5 j8d"
+                            },
+                            {
+                                "sapId": "I0010796",
+                                "nome": "EM Lumen L. Portuguesa Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010802",
+                                "nome": "EM Lumen Produção de Texto Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010808",
+                                "nome": "EM Lumen L. Inglesa Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010814",
+                                "nome": "EM Lumen Arte Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010820",
+                                "nome": "EM Lumen Matemática Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010826",
+                                "nome": "EM Lumen Biologia Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010832",
+                                "nome": "EM Lumen Física Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010838",
+                                "nome": "EM Lumen Química Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010844",
+                                "nome": "EM Lumen História Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010850",
+                                "nome": "EM Lumen Geografia Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010856",
+                                "nome": "EM Lumen Filosofia Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0010862",
+                                "nome": "EM Lumen Sociologia Livro 6 j8d"
+                            }
+                        ],
+                        "livrosExtras": []
+                    }
+                },
+                {
+                    "curso": {
+                        "segmento": {
+                            "id": 5,
+                            "nome": "PV"
+                        },
+                        "serie": {
+                            "id": 22,
+                            "nome": "PV "
+                        },
+                        "sapId": "I0011587",
+                        "nome": "PV|3ª Série e PV - ENEM|Aluno|CP - ENEM - DG j8d",
+                        "turma": {
+                            "id": 13342,
+                            "nome": "Turma PV"
+                        },
+                        "livros": [
+                            {
+                                "sapId": "I0010977",
+                                "nome": "PV L. Inglesa Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010978",
+                                "nome": "PV Arte Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0011014",
+                                "nome": "PV Enem Livro 4 j8d"
+                            },
+                            {
+                                "sapId": "I0011013",
+                                "nome": "PV Enem Livro 3 j8d"
+                            },
+                            {
+                                "sapId": "I0011012",
+                                "nome": "PV Enem Livro 2 j8d"
+                            },
+                            {
+                                "sapId": "I0010980",
+                                "nome": "PV Filosofia Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0010979",
+                                "nome": "PV Sociologia Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0010976",
+                                "nome": "PV L. Inglesa Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0010982",
+                                "nome": "PV Produção de Texto Livro U j8d"
+                            },
+                            {
+                                "sapId": "I0011011",
+                                "nome": "PV Enem Livro 1 j8d"
+                            },
+                            {
+                                "sapId": "I0011016",
+                                "nome": "PV Enem Livro 6 j8d"
+                            },
+                            {
+                                "sapId": "I0011015",
+                                "nome": "PV Enem Livro 5 j8d"
+                            }
+                        ],
+                        "livrosExtras": []
+                    }
+                }
+            ]
+        }
+    ],
+    "poliedros": []
+}
